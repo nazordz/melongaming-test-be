@@ -4,12 +4,12 @@ I made this with express & TypeScript
 
 # Installation
 Install dependecies
-``sh
+```sh
 yarn
-``
+```
 
 # Run
 Running in localhost
-``sh
+```sh
 yarn run dev
-``
+```
